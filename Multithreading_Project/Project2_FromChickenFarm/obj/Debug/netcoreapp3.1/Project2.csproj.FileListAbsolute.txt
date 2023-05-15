@@ -1,0 +1,14 @@
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\bin\Debug\netcoreapp3.1\Project2.exe
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\bin\Debug\netcoreapp3.1\Project2.deps.json
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.json
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.dev.json
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\bin\Debug\netcoreapp3.1\Project2.dll
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\bin\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.csproj.AssemblyReference.cache
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.dll
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\CODpo\OneDrive\Documents\CSE445\CSE445_Project2\CSE445_Project2\Project2_FromChickenFarm\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache
